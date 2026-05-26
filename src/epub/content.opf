@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-05-26T21:57:13Z</dc:date>
+		<meta property="dcterms:modified">2026-05-26T21:57:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,8 +41,8 @@
 		<dc:description id="description">A collection of Catherine Louisa Pirkis’s short fiction.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/catherine-louisa-pirkis"&gt;Catherine Louisa Pirkis&lt;/a&gt; was a Victorian author who wrote primarily romance and mystery novels and short fiction, serialized in the literary magazines of the day.&lt;/p&gt;
-			&lt;p&gt;Pirkis’s typical stories revolve around the difficulties of maintaining social standing as a young Victorian woman while something bigger than society is happening to you. They’re written with warmth for the always strong-spirited lead, and typically blend in a wry sense of humour to the challenging situations. Pirkis was fond of the animals in her stories, especially the dogs that appear many times over; the last short story in this collection—“Jack: A Mendicant”—is a tragedy that was specifically written to highlight the danger to stray dogs in Victorian England from vivisectionists, and proceeds from the version presented here went to London’s biggest dog charity.&lt;/p&gt;
-			&lt;p&gt;This collection includes all of Pirkis’s published short fiction, with the exception of the stories of &lt;a href="https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective"&gt;&lt;i&gt;Loveday Brooke, Lady Detective&lt;/i&gt;&lt;/a&gt; which form their own compilation.&lt;/p&gt;
+			&lt;p&gt;Pirkis’s typical story revolves around the difficulties of maintaining social standing as a young Victorian woman while something bigger than society is happening to you. The stories are written with warmth for the always strong-spirited lead, and typically blend a wry sense of humor into the challenges her characters face. Pirkis was fond of animals in her stories, especially the dogs that appear many times over; the last short story in this collection—“Jack: A Mendicant”—is a tragedy that was specifically written to highlight the danger to stray dogs in Victorian England from vivisectionists, and the proceeds it earned went to London’s biggest dog charity.&lt;/p&gt;
+			&lt;p&gt;This collection includes all of Pirkis’s published short fiction, with the exception of the stories of &lt;a href="https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective"&gt;&lt;i&gt;Loveday Brooke, Lady Detective&lt;/i&gt;&lt;/a&gt; which are collected in their own omnibus.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Disappeared From Her Home -->
@@ -57,8 +57,8 @@
 		<!-- Jack: A Mendicant -->
 		<dc:source>https://archive.org/details/jackmendicant01pirk</dc:source>
 		<meta property="se:production-notes">Dedications stripped: styling for short fiction not obvious, and they didn’t add much.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">84928</meta>
+		<meta property="se:reading-ease.flesch">67.38</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/catherine-louisa-pirkis_short-fiction</meta>
 		<dc:creator id="author">Catherine Louisa Pirkis</dc:creator>
 		<meta property="file-as" refines="#author">Pirkis, Catherine Louisa</meta>
@@ -83,6 +83,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
